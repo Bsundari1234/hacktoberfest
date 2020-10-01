@@ -28,9 +28,9 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 :eight: Celebrate - you've done your first pull request!!!!!
 
 
-## Template for contributions :clipboard:
+# Template for contributions :clipboard:
 
-### Introduction :sunglasses:
+# Introduction :sunglasses:
 
 **Your name**: Harshit Bhalla
 
